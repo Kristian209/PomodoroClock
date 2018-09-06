@@ -1,5 +1,3 @@
-import ReactDOM from 'react-dom'
-import React from 'React'
 
 class Pomodoro extends React.Component{
   constructor(props){
