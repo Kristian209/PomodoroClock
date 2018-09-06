@@ -1,0 +1,48 @@
+body{
+  background-color: #eeef;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align:center;
+  font-family: 'Righteous', cursive;
+#time-left{
+  font-family:'Orbitron', monospace;
+  font-size: 25px;
+}}
+.sessionContainer{
+  border: solid rgba(0,0,0,0.5);
+  border-radius: 50px;
+  width: 300px;
+  margin: 25px auto auto auto;
+  padding: 25px;
+}
+.caretDown{
+  color:black;
+}
+.lengths{
+  text-align:center;
+  display: grid;
+  grid-template-columns: 140px 140px;
+  grid-gap: 280px;
+  margin-left: 400px;
+  font-size: 23px;
+}
+#session-decrement{
+  color:black;
+}
+#session-increment{
+  color:black;
+}
+#break-decrement{
+  color:black;
+}
+#break-increment{
+  color:black;
+}
+#start_stop{
+  color:black;
+  background-color: white;
+}
+#reset{
+  color:black;
+  background-color:white;
+}
