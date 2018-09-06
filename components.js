@@ -210,3 +210,5 @@ class SessionLength extends React.Component{
     )
   }
 }
+
+ReactDOM.render(<Pomodoro />, document.getElementById('root'));
