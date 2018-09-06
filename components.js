@@ -147,7 +147,7 @@ class Pomodoro extends React.Component{
   }
   render(){
     return(
-    <div className='wrapper'>
+    <div className="wrapper">
     <div className='lengths'>
 <BreakLength
   incrementBreak={this.incrementBreak}
